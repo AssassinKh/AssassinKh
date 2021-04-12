@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AssassinKh
+- 👋 Hi, Khush Vasudeo Patil
 - 👀 I’m interested in Embedded,IoT and Hardware(Security)
 - 🌱 I’m currently learning Embedded C,c++,Rust and Python
 - 💞️ I’m looking to collaborate on IoT or Embedded Projects
